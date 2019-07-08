@@ -1,7 +1,7 @@
 
 
 ## Clone the Project
-
+git clone https://github.com/kennymuriithi/Laravel-Full-Calender.git
 
 ## Composer Update
 
